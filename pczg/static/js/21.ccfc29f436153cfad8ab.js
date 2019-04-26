@@ -1,0 +1,2 @@
+webpackJsonp([21],{"2OFM":function(e,n){},"Re+r":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  主数据管理\n")])},staticRenderFns:[]};var i=t("VU/8")({},r,!1,function(e){t("2OFM")},null,null);n.default=i.exports}});
+//# sourceMappingURL=21.ccfc29f436153cfad8ab.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([20],{"0jbT":function(e,n){},K56L:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  主数据查询\n")])},staticRenderFns:[]};var i=t("VU/8")({},r,!1,function(e){t("0jbT")},null,null);n.default=i.exports}});
+//# sourceMappingURL=20.eb48cfc3e48391d50529.js.map
